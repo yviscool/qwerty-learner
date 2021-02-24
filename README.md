@@ -117,8 +117,11 @@ Gitee Pages: https://kaiyiwing.gitee.io/qwerty-learner/
 
 ## 📗 API 词库
 
-- JS 相关 API，Array、Date、Global、Map 等...
-- Node.js 相关 API，fs、path 等...
+- JavaScript API. [@sdu-gyf](https://github.com/sdu-gyf)
+- Node.js API. [@chrysalis1215](https://github.com/chrysalis1215)
+- Java API. [@darkSheep](https://github.com/SFAfreshman)
+
+目前 API 相关词库主要依赖于社区贡献，如果您想贡献自己需要的 API 词库，建议参考 [Issue #42](https://github.com/Kaiyiwing/qwerty-learner/issues/40) [pr #67](https://github.com/Kaiyiwing/qwerty-learner/pull/67) 贡献词典。
 
 <br />
 <br />
@@ -137,22 +140,27 @@ Gitee Pages: https://kaiyiwing.gitee.io/qwerty-learner/
 
 如果您对本项目感兴趣，我们非常欢迎参与到项目的贡献中，我们会尽可能地提供帮助
 
-在贡献前，希望您阅读 [Issue #42](https://github.com/Kaiyiwing/qwerty-learner/issues/42) 了解我们目前的开发计划，我们希望您能参与到"计划中"的工作亦或者 Issue 区其他未列入的工作，我们也非常欢迎您实现自己的想法。
+在贡献前，希望您阅读 [Issue #42](https://github.com/Kaiyiwing/qwerty-learner/issues/42) 了解我们目前的开发计划，我们希望您能参与到"计划中"的工作亦或者 Issue 区 Label 为 "Help Wanted" 的工作，我们也非常欢迎您实现自己的想法。
 
 如果您确定了想要参与的工作，希望在有基本进展后提交 draft pr，我们可以在 draft pr 上进行讨论，也有利于听取其他 collaborator 的意见。
 
 再次感谢您对项目的贡献！🎉
 
 <br />
-<br />
 
-## ☕️ Buy me a coffe
+## ☕️ Buy us a coffe
 
 非常感谢大家使用 Qwerty Learner, 目前该网站由三个人用业余时间在维护，我们希望在未来购买独立的域名(目前使用 vercel 部署)，并购买服务器以方便国内用户访问与云同步存储数据。
 
 如果您喜欢我们软件，非常感谢您对我们未来的支持!
 
 <img  src="https://github.com/Kaiyiwing/qwerty-learner/blob/master/docs/alipay.png" width="200px"/>
+
+## 👨‍💻 Contributors
+
+<a href="https://github.com/Kaiyiwing/qwerty-learner/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kaiyiwing/qwerty-learner" />
+</a>
 
 ## 🎁 鸣谢
 
