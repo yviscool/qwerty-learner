@@ -1,116 +1,70 @@
 [
-    {
-        "name": "if",
-        "trans": [
-            "如果"
-        ]
-    },
-    {
-        "name": "else",
-        "trans": [
-            "否则"
-        ]
-    },
-    {
-        "name": "while",
-        "trans": [
-            "while 型循环"
-        ]
-    },
-    {
-        "name": "for",
-        "trans":[
-            "for 型循环"
-        ]
-    },
-    {
-        "name": "and",
-        "trans": [
-            "逻辑与运算符"
-        ]
-    },
-    {
-        "name": "or",
-        "trans": [
-            "逻辑或运算符"
-        ]
-    },
-    {
-        "name": "not",
-        "trans": [
-            "逻辑非运算符"
-        ]
-    },
-    {
-        "name": "TRUE",
-        "trans": [
-            "真"
-        ]
-    },
-    {
-        "name": "FALSE",
-        "trans": [
-            "假"
-        ]
-    },
-    {
-        "name": "None",
-        "trans": [
-            "空值"
-        ]
-    },
-    {
-        "name": "continue",
-        "trans": [
-            "跳出本次循环，继续下一轮循环"
-        ]
-    },
-    {
-        "name": "break",
-        "trans": [
-            "跳出整个循环"
-        ]
-    },
-    {
-        "name": "pass",
-        "trans": [
-            "空语句，不做任何事情"
-        ]
-    },
-    {
-        "name": "def",
-        "trans": [
-            "define的缩写，定义一个函数"
-        ]
-    },
-    {
-        "name": "return",
-        "trans": [
-            "返回语句，退出def语句块"
-        ]
-    },
-    {
-        "name": "global",
-        "trans": [
-            "声明全局变量"
-        ]
-    },
-    {
-        "name": "class",
-        "trans": [
-            "定义一个类"
-        ]
-    },
-    {
-        "name": "import",
-        "trans": [
-            "导入模块"
-        ]
-    },
-    {
-        "name": "from",
-        "trans": [
-            "与import配合导入模块"
-        ]
-    }
-]
+    { "name": "python", "trans": ["蟒蛇, 编程语言"] },
+    { "name": "import", "trans": ["导入"] },
+    { "name": "from", "trans": ["从...起, 从...开始"] },
+    { "name": "data", "trans": ["数据"] },
+    { "name": "type", "trans": ["类型"] },
+    { "name": "integer", "trans": ["整数"] },
+    { "name": "float", "trans": ["浮点数"] },
+    { "name": "boolean", "trans": ["布尔"] },
+    { "name": "string", "trans": ["字符串"] },
+    { "name": "none", "trans": ["什么都不是"] },
+    { "name": "list", "trans": ["列表"] },
+    { "name": "tuple", "trans": ["元组"] },
+    { "name": "set", "trans": ["集合"] },
+    { "name": "dict", "trans": ["字典"] },
+    { "name": "if", "trans": ["如果"] },
+    { "name": "else", "trans": ["那么"] },
+    { "name": "and", "trans": ["并且,且"] },
+    { "name": "or", "trans": ["或, 或者"] },
+    { "name": "not", "trans": ["取反, 非"] },
+    { "name": "for", "trans": ["为了, 循环语句"] },
+    { "name": "index", "trans": ["索引"] },
+    { "name": "in", "trans": ["在...内 "] },
+    { "name": "range", "trans": ["范围"] },
+    { "name": "while", "trans": ["在...期间, 直到, 循环语句"] },
+    { "name": "break", "trans": ["打断, 终止"] },
+    { "name": "continue", "trans": ["继续"] },
+    { "name": "random", "trans": ["随机"] },
+    { "name": "key", "trans": ["键"] },
+    { "name": "value", "trans": ["值"] },
+    { "name": "define", "trans": ["定义"] },
+    { "name": "function", "trans": ["方法, 函数"] },
+    { "name": "argument", "trans": ["参数, 变数"] },
+    { "name": "return", "trans": ["返回"] },
+    { "name": "global", "trans": ["全局"] },
+    { "name": "attribute", "trans": ["属性"] },
+    { "name": "class", "trans": ["类"] },
+    { "name": "object", "trans": ["对象"] },
+    { "name": "maximum", "trans": ["最大"] },
+    { "name": "minimum", "trans": ["最小"] },
+    { "name": "true", "trans": ["真"] },
+    { "name": "false", "trans": ["假"] },
+    { "name": "quotes", "trans": ["引号 "] },
+    { "name": "module", "trans": ["模块"] },
+    { "name": "system", "trans": ["系统"] },
+    { "name": "path", "trans": ["路径"] },
+    { "name": "error", "trans": ["错误"] },
+    { "name": "invalid", "trans": ["无效"] },
+    { "name": "variable", "trans": ["变量"] },
+    { "name": "operators", "trans": ["运算符"] },
+    { "name": "arithmetic", "trans": ["算数"] },
+    { "name": "addition", "trans": ["+ 加法"] },
+    { "name": "subtraction", "trans": ["- 减法"] },
+    { "name": "multiplication", "trans": ["* 乘法"] },
+    { "name": "division", "trans": ["/ 除法"] },
+    { "name": "modulus", "trans": ["% 系数；模数"] },
+    { "name": "exponent", "trans": ["** 指数, 幂"] },
+    { "name": "floor devision", "trans": ["// 整除, 向下取整"] },
+    { "name": "comparison", "trans": ["比较"] },
+    { "name": "equal", "trans": ["== 相等"] },
+    { "name": "not equal", "trans": ["!= 不相等"] },
+    { "name": "greater than", "trans": ["> 大于"] },
+    { "name": "less than", "trans": ["< 小于"] },
+    { "name": "greater than or equal", "trans": [">= 大于等于"] },
+    { "name": "less than or equal", "trans": ["<= 小于等于"] },
+    { "name": "assignment", "trans": ["分配, 赋值"] },
+    { "name": "logical", "trans": ["逻辑"] },
+    { "name": "logical operators", "trans": ["逻辑运算符"] }
+  ]
+  

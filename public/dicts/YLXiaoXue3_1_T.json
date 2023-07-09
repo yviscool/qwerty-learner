@@ -1,0 +1,644 @@
+[
+  {
+    "name": "Hello",
+    "trans": [
+      "你好"
+    ],
+    "usphone": "[hə'ləʊ]",
+    "ukphone": "[hə'ləʊ]"
+  },
+  {
+    "name": "Good morning",
+    "trans": [
+      "早上好。"
+    ]
+  },
+  {
+    "name": "Miss",
+    "trans": [
+      "小姐"
+    ],
+    "usphone": "[mɪs]",
+    "ukphone": "[mɪs]"
+  },
+  {
+    "name": "Hi.",
+    "trans": [
+      "你好。"
+    ]
+  },
+  {
+    "name": "Good afternoon",
+    "trans": [
+      "下午好。"
+    ]
+  },
+  {
+    "name": "class",
+    "trans": [
+      "同学们"
+    ],
+    "usphone": "[klɑːs]",
+    "ukphone": "[klɑːs]"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "[aɪ]",
+    "ukphone": "[aɪ]"
+  },
+  {
+    "name": "I'm",
+    "trans": [
+      "(= I am) 我是"
+    ],
+    "usphone": "[aɪm]",
+    "ukphone": "[aɪm]"
+  },
+  {
+    "name": "are",
+    "trans": [
+      "是"
+    ],
+    "usphone": "[ɑː]",
+    "ukphone": "[ɑː]"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "[juː]",
+    "ukphone": "[juː]"
+  },
+  {
+    "name": "yes",
+    "trans": [
+      "是；对"
+    ],
+    "usphone": "[jes]",
+    "ukphone": "[jes]"
+  },
+  {
+    "name": "am",
+    "trans": [
+      "是"
+    ],
+    "usphone": "[æm]",
+    "ukphone": "[æm]"
+  },
+  {
+    "name": "no",
+    "trans": [
+      "不；不是；没有"
+    ],
+    "usphone": "[nəʊ]",
+    "ukphone": "[nəʊ]"
+  },
+  {
+    "name": "not",
+    "trans": [
+      "不；没有"
+    ],
+    "usphone": "[nɒt]",
+    "ukphone": "[nɒt]"
+  },
+  {
+    "name": "Goodbye",
+    "trans": [
+      "再见。"
+    ],
+    "usphone": "[ˌgʊd'baɪ]",
+    "ukphone": "[ˌgʊd'baɪ]"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "[maɪ]",
+    "ukphone": "[maɪ]"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "[frend]",
+    "ukphone": "[frend]"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "[ʃiː]",
+    "ukphone": "[ʃiː]"
+  },
+  {
+    "name": "she's",
+    "trans": [
+      "(=she is) 她是"
+    ],
+    "usphone": "[ʃiːs]",
+    "ukphone": "[ʃiːs]"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "[hiː]",
+    "ukphone": "[hiː]"
+  },
+  {
+    "name": "he's",
+    "trans": [
+      "(=he is) 他是"
+    ]
+  },
+  {
+    "name": "too",
+    "trans": [
+      "也"
+    ],
+    "usphone": "[tuː]",
+    "ukphone": "[tuː]"
+  },
+  {
+    "name": "this",
+    "trans": [
+      "这；这个"
+    ],
+    "usphone": "[ðɪs]",
+    "ukphone": "[ðɪs]"
+  },
+  {
+    "name": "is",
+    "trans": [
+      "是"
+    ],
+    "usphone": "[ɪz]",
+    "ukphone": "[ɪz]"
+  },
+  {
+    "name": "sister",
+    "trans": [
+      "姐姐；妹妹"
+    ],
+    "usphone": "['sɪstə]",
+    "ukphone": "['sɪstə]"
+  },
+  {
+    "name": "family",
+    "trans": [
+      "家；家庭"
+    ],
+    "usphone": "['fæmɪli]",
+    "ukphone": "['fæmɪli]"
+  },
+  {
+    "name": "father",
+    "trans": [
+      "父亲；爸爸"
+    ],
+    "usphone": "['fɑːðə]",
+    "ukphone": "['fɑːðə]"
+  },
+  {
+    "name": "mother",
+    "trans": [
+      "母亲；妈妈"
+    ],
+    "usphone": "['mʌðə]",
+    "ukphone": "['mʌðə]"
+  },
+  {
+    "name": "brother",
+    "trans": [
+      "哥哥；弟弟"
+    ],
+    "usphone": "['brʌðə]",
+    "ukphone": "['brʌðə]"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "[miː]",
+    "ukphone": "[miː]"
+  },
+  {
+    "name": "grandpa",
+    "trans": [
+      "祖父；外祖父"
+    ],
+    "usphone": "['grændpɑː]",
+    "ukphone": "['grændpɑː]"
+  },
+  {
+    "name": "grandma",
+    "trans": [
+      "祖母；外祖母"
+    ],
+    "usphone": "['grændmɑː]",
+    "ukphone": "['grændmɑː]"
+  },
+  {
+    "name": "Good evening.",
+    "trans": [
+      "晚上好。"
+    ]
+  },
+  {
+    "name": "look at",
+    "trans": [
+      "看；瞧"
+    ]
+  },
+  {
+    "name": "T-shirt",
+    "trans": [
+      "T恤衫"
+    ],
+    "usphone": "['tiːʃɜːt]",
+    "ukphone": "['tiːʃɜːt]"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它"
+    ],
+    "usphone": "[ɪt]",
+    "ukphone": "[ɪt]"
+  },
+  {
+    "name": "it's",
+    "trans": [
+      "(= it is) 它是"
+    ],
+    "usphone": "[ɪts]",
+    "ukphone": "[ɪts]"
+  },
+  {
+    "name": "nice",
+    "trans": [
+      "好看的；好的"
+    ],
+    "usphone": "[naɪs]",
+    "ukphone": "[naɪs]"
+  },
+  {
+    "name": "skirt",
+    "trans": [
+      "裙子"
+    ],
+    "usphone": "[skɜːt]",
+    "ukphone": "[skɜːt]"
+  },
+  {
+    "name": "How nice!",
+    "trans": [
+      "真好看!"
+    ]
+  },
+  {
+    "name": "cap",
+    "trans": [
+      "便帽；帽子"
+    ],
+    "usphone": "[kæp]",
+    "ukphone": "[kæp]"
+  },
+  {
+    "name": "great",
+    "trans": [
+      "好极了；很好"
+    ],
+    "usphone": "[greɪt]",
+    "ukphone": "[greɪt]"
+  },
+  {
+    "name": "jacket",
+    "trans": [
+      "夹克衫"
+    ],
+    "usphone": "['dʒækɪt]",
+    "ukphone": "['dʒækɪt]"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "新的"
+    ],
+    "usphone": "[njuː]",
+    "ukphone": "[njuː]"
+  },
+  {
+    "name": "What colour ...?",
+    "trans": [
+      "……是什么颜色的?"
+    ]
+  },
+  {
+    "name": "red",
+    "trans": [
+      "红色的"
+    ],
+    "usphone": "[red]",
+    "ukphone": "[red]"
+  },
+  {
+    "name": "colour",
+    "trans": [
+      "颜色"
+    ],
+    "usphone": "['kʌlə]",
+    "ukphone": "['kʌlə]"
+  },
+  {
+    "name": "orange",
+    "trans": [
+      "橙色的"
+    ],
+    "usphone": "['ɔːrɪndʒ]",
+    "ukphone": "['ɔːrɪndʒ]"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在；目前"
+    ],
+    "usphone": "[naʊ]",
+    "ukphone": "[naʊ]"
+  },
+  {
+    "name": "green",
+    "trans": [
+      "绿色的"
+    ],
+    "usphone": "[griːn]",
+    "ukphone": "[griːn]"
+  },
+  {
+    "name": "and",
+    "trans": [
+      "和；与；又"
+    ],
+    "usphone": "[ænd]",
+    "ukphone": "[ænd]"
+  },
+  {
+    "name": "yellow",
+    "trans": [
+      "黄色的"
+    ],
+    "usphone": "['jeləʊ]",
+    "ukphone": "['jeləʊ]"
+  },
+  {
+    "name": "black",
+    "trans": [
+      "黑色的"
+    ],
+    "usphone": "[blæk]",
+    "ukphone": "[blæk]"
+  },
+  {
+    "name": "blue",
+    "trans": [
+      "蓝色的"
+    ],
+    "usphone": "[bluː]",
+    "ukphone": "[bluː]"
+  },
+  {
+    "name": "brown",
+    "trans": [
+      "棕色的"
+    ],
+    "usphone": "[braʊn]",
+    "ukphone": "[braʊn]"
+  },
+  {
+    "name": "white",
+    "trans": [
+      "白色的"
+    ],
+    "usphone": "[hwaɪt]",
+    "ukphone": "[hwaɪt]"
+  },
+  {
+    "name": "Would you like ...?",
+    "trans": [
+      "你想要......吗?"
+    ]
+  },
+  {
+    "name": "an",
+    "trans": [
+      "一个"
+    ],
+    "usphone": "[æn]",
+    "ukphone": "[æn]"
+  },
+  {
+    "name": "Yes，please.",
+    "trans": [
+      "好的；太感谢了.。"
+    ]
+  },
+  {
+    "name": "or",
+    "trans": [
+      "或；还是"
+    ],
+    "usphone": "[ɔː]",
+    "ukphone": "[ɔː]"
+  },
+  {
+    "name": "a",
+    "trans": [
+      "一个"
+    ],
+    "usphone": "[eɪ]",
+    "ukphone": "[eɪ]"
+  },
+  {
+    "name": "pie",
+    "trans": [
+      "馅饼；派"
+    ],
+    "usphone": "[paɪ]",
+    "ukphone": "[paɪ]"
+  },
+  {
+    "name": "Nice to meet you.",
+    "trans": [
+      "很高兴认识你。"
+    ]
+  },
+  {
+    "name": "No，thank you.",
+    "trans": [
+      "不；谢谢你。"
+    ]
+  },
+  {
+    "name": "What about ...?",
+    "trans": [
+      "……怎么样？"
+    ]
+  },
+  {
+    "name": "cake",
+    "trans": [
+      "蛋糕；糕饼"
+    ],
+    "usphone": "[keɪk]",
+    "ukphone": "[keɪk]"
+  },
+  {
+    "name": "ice cream",
+    "trans": [
+      "冰淇淋"
+    ]
+  },
+  {
+    "name": "sweet",
+    "trans": [
+      "糖果"
+    ],
+    "usphone": "[swiːt]",
+    "ukphone": "[swiːt]"
+  },
+  {
+    "name": "hot dog",
+    "trans": [
+      "热狗"
+    ]
+  },
+  {
+    "name": "look",
+    "trans": [
+      "看；瞧"
+    ],
+    "usphone": "[lʊk]",
+    "ukphone": "[lʊk]"
+  },
+  {
+    "name": "what",
+    "trans": [
+      "什么"
+    ],
+    "usphone": "[hwɒt]",
+    "ukphone": "[hwɒt]"
+  },
+  {
+    "name": "what's",
+    "trans": [
+      "(=what is) 什么是"
+    ],
+    "usphone": "[hwɒts]",
+    "ukphone": "[hwɒts]"
+  },
+  {
+    "name": "Happy New Year!",
+    "trans": [
+      "新年快乐!"
+    ]
+  },
+  {
+    "name": "uncle",
+    "trans": [
+      "叔父;伯父;舅父;姑父;姨夫"
+    ],
+    "usphone": "['ʌŋkl]",
+    "ukphone": "['ʌŋkl]"
+  },
+  {
+    "name": "This is for you.",
+    "trans": [
+      "这是给你的。"
+    ]
+  },
+  {
+    "name": "doll",
+    "trans": [
+      "玩具娃娃"
+    ],
+    "usphone": "[dɒl]",
+    "ukphone": "[dɒl]"
+  },
+  {
+    "name": "that",
+    "trans": [
+      "那；那个"
+    ],
+    "usphone": "[ðæt]",
+    "ukphone": "[ðæt]"
+  },
+  {
+    "name": "ball",
+    "trans": [
+      "球"
+    ],
+    "usphone": "[bɔːl]",
+    "ukphone": "[bɔːl]"
+  },
+  {
+    "name": "robot",
+    "trans": [
+      "机器人"
+    ],
+    "usphone": "[ˈrəʊbɒt]",
+    "ukphone": "[ˈrəʊbɒt]"
+  },
+  {
+    "name": "CD",
+    "trans": [
+      "光盘"
+    ],
+    "usphone": "[ˌsiː'diː]",
+    "ukphone": "[ˌsiː'diː]"
+  },
+  {
+    "name": "car",
+    "trans": [
+      "小汽车；轿车"
+    ],
+    "usphone": "[kɑː]",
+    "ukphone": "[kɑː]"
+  },
+  {
+    "name": "Happy birthday!",
+    "trans": [
+      "生日快乐!"
+    ]
+  },
+  {
+    "name": "toy",
+    "trans": [
+      "玩具"
+    ],
+    "usphone": "[tɔɪ]",
+    "ukphone": "[tɔɪ]"
+  },
+  {
+    "name": "ah",
+    "trans": [
+      "啊"
+    ]
+  },
+  {
+    "name": "ha",
+    "trans": [
+      "哈"
+    ],
+    "usphone": "[hɑː]",
+    "ukphone": "[hɑː]"
+  }
+]

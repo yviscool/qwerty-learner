@@ -1,0 +1,870 @@
+[
+  {
+    "name": "in class",
+    "trans": [
+      "在上课"
+    ]
+  },
+  {
+    "name": "Stand up.",
+    "trans": [
+      "起立"
+    ]
+  },
+  {
+    "name": "Mr",
+    "trans": [
+      "先生"
+    ]
+  },
+  {
+    "name": "sit down.",
+    "trans": [
+      "坐下"
+    ]
+  },
+  {
+    "name": "please",
+    "trans": [
+      "请"
+    ],
+    "usphone": "[pliːz]",
+    "ukphone": "[pliːz]"
+  },
+  {
+    "name": "open",
+    "trans": [
+      "开；打开"
+    ],
+    "usphone": "['əʊpən]",
+    "ukphone": "['əʊpən]"
+  },
+  {
+    "name": "the",
+    "trans": [
+      "这个；这些；那个；那些"
+    ],
+    "usphone": "[ðə]",
+    "ukphone": "[ðə]"
+  },
+  {
+    "name": "door",
+    "trans": [
+      "门"
+    ],
+    "usphone": "[dɔː]",
+    "ukphone": "[dɔː]"
+  },
+  {
+    "name": "sorry",
+    "trans": [
+      "对不起"
+    ],
+    "usphone": "[ˈsɒri]",
+    "ukphone": "[ˈsɒri]"
+  },
+  {
+    "name": "come in",
+    "trans": [
+      "进来"
+    ]
+  },
+  {
+    "name": "close",
+    "trans": [
+      "关上；合上"
+    ],
+    "usphone": "[kləʊz]",
+    "ukphone": "[kləʊz]"
+  },
+  {
+    "name": "window",
+    "trans": [
+      "窗; 窗户"
+    ],
+    "usphone": "['wɪndəʊ]",
+    "ukphone": "['wɪndəʊ]"
+  },
+  {
+    "name": "blackboard",
+    "trans": [
+      "黑板"
+    ],
+    "usphone": "['blækbɔːd]",
+    "ukphone": "['blækbɔːd]"
+  },
+  {
+    "name": "book",
+    "trans": [
+      "书"
+    ],
+    "usphone": "[bʊk]",
+    "ukphone": "[bʊk]"
+  },
+  {
+    "name": "rubber",
+    "trans": [
+      "橡皮"
+    ],
+    "usphone": "[ˈrʌbə]",
+    "ukphone": "[ˈrʌbə]"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "(= do not) 不要"
+    ],
+    "usphone": "[dəʊnt]",
+    "ukphone": "[dəʊnt]"
+  },
+  {
+    "name": "listen to",
+    "trans": [
+      "听"
+    ]
+  },
+  {
+    "name": "parrot",
+    "trans": [
+      "鹦鹉"
+    ],
+    "usphone": "['pærət]",
+    "ukphone": "['pærət]"
+  },
+  {
+    "name": "in",
+    "trans": [
+      "在……里面"
+    ],
+    "usphone": "[ɪn]",
+    "ukphone": "[ɪn]"
+  },
+  {
+    "name": "library",
+    "trans": [
+      "图书馆"
+    ],
+    "usphone": "['laɪbrəri]",
+    "ukphone": "['laɪbrəri]"
+  },
+  {
+    "name": "shh",
+    "trans": [
+      "嘘"
+    ]
+  },
+  {
+    "name": "shout",
+    "trans": [
+      "喊；叫"
+    ],
+    "usphone": "[ʃaʊt]",
+    "ukphone": "[ʃaʊt]"
+  },
+  {
+    "name": "run",
+    "trans": [
+      "跑，跑步"
+    ],
+    "usphone": "[rʌn]",
+    "ukphone": "[rʌn]"
+  },
+  {
+    "name": "eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "[iːt]",
+    "ukphone": "[iːt]"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里；在这里"
+    ],
+    "usphone": "[hɪə]",
+    "ukphone": "[hɪə]"
+  },
+  {
+    "name": "talk",
+    "trans": [
+      "说话；谈话"
+    ],
+    "usphone": "[tɔːk]",
+    "ukphone": "[tɔːk]"
+  },
+  {
+    "name": "sleep",
+    "trans": [
+      "睡觉"
+    ],
+    "usphone": "[sliːp]",
+    "ukphone": "[sliːp]"
+  },
+  {
+    "name": "drink",
+    "trans": [
+      "喝"
+    ],
+    "usphone": "[drɪŋk]",
+    "ukphone": "[drɪŋk]"
+  },
+  {
+    "name": "milk",
+    "trans": [
+      "牛奶"
+    ],
+    "usphone": "[mɪlk]",
+    "ukphone": "[mɪlk]"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "['ɪŋglɪʃ]",
+    "ukphone": "['ɪŋglɪʃ]"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "你的；你们的"
+    ],
+    "usphone": "[jʊə]",
+    "ukphone": "[jʊə]"
+  },
+  {
+    "name": "pencil",
+    "trans": [
+      "铅笔"
+    ],
+    "usphone": "['pensl]",
+    "ukphone": "['pensl]"
+  },
+  {
+    "name": "isn't",
+    "trans": [
+      "(=is not) 是不是"
+    ],
+    "usphone": "['ɪznt]",
+    "ukphone": "['ɪznt]"
+  },
+  {
+    "name": "that's",
+    "trans": [
+      "(=that is) 那是"
+    ]
+  },
+  {
+    "name": "schoolbag",
+    "trans": [
+      "书包"
+    ],
+    "usphone": "['skuːlˌbæg]",
+    "ukphone": "['skuːlˌbæg]"
+  },
+  {
+    "name": "pen",
+    "trans": [
+      "钢笔"
+    ],
+    "usphone": "[pen]",
+    "ukphone": "[pen]"
+  },
+  {
+    "name": "crayon",
+    "trans": [
+      "蜡笔"
+    ],
+    "usphone": "[ˈkreɪən]",
+    "ukphone": "[ˈkreɪən]"
+  },
+  {
+    "name": "ruler",
+    "trans": [
+      "尺子"
+    ],
+    "usphone": "['ruːlə]",
+    "ukphone": "['ruːlə]"
+  },
+  {
+    "name": "pencil case",
+    "trans": [
+      "铅笔盒；铅笔袋"
+    ]
+  },
+  {
+    "name": "lunch box",
+    "trans": [
+      "午餐盒"
+    ]
+  },
+  {
+    "name": "where",
+    "trans": [
+      "在哪里"
+    ],
+    "usphone": "[hweə]",
+    "ukphone": "[hweə]"
+  },
+  {
+    "name": "where's",
+    "trans": [
+      "(=where is) 在哪里"
+    ]
+  },
+  {
+    "name": "over there",
+    "trans": [
+      "在那里"
+    ]
+  },
+  {
+    "name": "bird",
+    "trans": [
+      "鸟"
+    ],
+    "usphone": "[bɜːd]",
+    "ukphone": "[bɜːd]"
+  },
+  {
+    "name": "beautiful",
+    "trans": [
+      "漂亮的；美丽的"
+    ],
+    "usphone": "['bjuːtəfəl]",
+    "ukphone": "['bjuːtəfəl]"
+  },
+  {
+    "name": "under",
+    "trans": [
+      "在……下面"
+    ],
+    "usphone": "['ʌndə]",
+    "ukphone": "['ʌndə]"
+  },
+  {
+    "name": "desk",
+    "trans": [
+      "课桌；书桌"
+    ],
+    "usphone": "[desk]",
+    "ukphone": "[desk]"
+  },
+  {
+    "name": "behind",
+    "trans": [
+      "在……后面"
+    ],
+    "usphone": "[bɪ'haɪnd]",
+    "ukphone": "[bɪ'haɪnd]"
+  },
+  {
+    "name": "on",
+    "trans": [
+      "在……上面"
+    ],
+    "usphone": "[ɒn]",
+    "ukphone": "[ɒn]"
+  },
+  {
+    "name": "chair",
+    "trans": [
+      "椅子"
+    ],
+    "usphone": "[tʃeə]",
+    "ukphone": "[tʃeə]"
+  },
+  {
+    "name": "tree",
+    "trans": [
+      "树"
+    ],
+    "usphone": "[triː]",
+    "ukphone": "[triː]"
+  },
+  {
+    "name": "guess",
+    "trans": [
+      "猜；猜测"
+    ],
+    "usphone": "[ges]",
+    "ukphone": "[ges]"
+  },
+  {
+    "name": "one",
+    "trans": [
+      "一"
+    ],
+    "usphone": "[wʌn]",
+    "ukphone": "[wʌn]"
+  },
+  {
+    "name": "two",
+    "trans": [
+      "二"
+    ],
+    "usphone": "[tuː]",
+    "ukphone": "[tuː]"
+  },
+  {
+    "name": "three",
+    "trans": [
+      "三"
+    ],
+    "usphone": "[θriː]",
+    "ukphone": "[θriː]"
+  },
+  {
+    "name": "oh",
+    "trans": [
+      "哦；啊"
+    ],
+    "usphone": "[əʊ]",
+    "ukphone": "[əʊ]"
+  },
+  {
+    "name": "wow",
+    "trans": [
+      "哇,呀"
+    ],
+    "usphone": "[waʊ]",
+    "ukphone": "[waʊ]"
+  },
+  {
+    "name": "How old are you?",
+    "trans": [
+      "你多大了？"
+    ]
+  },
+  {
+    "name": "lovely",
+    "trans": [
+      "可爱的"
+    ],
+    "usphone": "[ˈlʌvli]",
+    "ukphone": "[ˈlʌvli]"
+  },
+  {
+    "name": "nine",
+    "trans": [
+      "九"
+    ],
+    "usphone": "[naɪn]",
+    "ukphone": "[naɪn]"
+  },
+  {
+    "name": "eight",
+    "trans": [
+      "八"
+    ],
+    "usphone": "[eɪt]",
+    "ukphone": "[eɪt]"
+  },
+  {
+    "name": "four",
+    "trans": [
+      "四"
+    ],
+    "usphone": "[fɔː]",
+    "ukphone": "[fɔː]"
+  },
+  {
+    "name": "five",
+    "trans": [
+      "五"
+    ],
+    "usphone": "[faɪv]",
+    "ukphone": "[faɪv]"
+  },
+  {
+    "name": "six",
+    "trans": [
+      "六"
+    ],
+    "usphone": "[sɪks]",
+    "ukphone": "[sɪks]"
+  },
+  {
+    "name": "seven",
+    "trans": [
+      "七"
+    ],
+    "usphone": "['sevn]",
+    "ukphone": "['sevn]"
+  },
+  {
+    "name": "ten",
+    "trans": [
+      "十"
+    ],
+    "usphone": "[ten]",
+    "ukphone": "[ten]"
+  },
+  {
+    "name": "right",
+    "trans": [
+      "对的；正确的"
+    ],
+    "usphone": "[raɪt]",
+    "ukphone": "[raɪt]"
+  },
+  {
+    "name": "out",
+    "trans": [
+      "出"
+    ],
+    "usphone": "[aʊt]",
+    "ukphone": "[aʊt]"
+  },
+  {
+    "name": "What a nice cake!",
+    "trans": [
+      "多么好的蛋糕！"
+    ]
+  },
+  {
+    "name": "make a wish",
+    "trans": [
+      "许个愿"
+    ]
+  },
+  {
+    "name": "want",
+    "trans": [
+      "希望"
+    ],
+    "usphone": "[wɒnt]",
+    "ukphone": "[wɒnt]"
+  },
+  {
+    "name": "It's time for ...",
+    "trans": [
+      "是时候了…"
+    ]
+  },
+  {
+    "name": "What time is it?",
+    "trans": [
+      "几点了？"
+    ]
+  },
+  {
+    "name": "wake up",
+    "trans": [
+      "醒；醒来"
+    ]
+  },
+  {
+    "name": "mum",
+    "trans": [
+      "妈妈"
+    ],
+    "usphone": "[mʌm]",
+    "ukphone": "[mʌm]"
+  },
+  {
+    "name": "o'clock",
+    "trans": [
+      "……点钟"
+    ],
+    "usphone": "[əˈklɒk]",
+    "ukphone": "[əˈklɒk]"
+  },
+  {
+    "name": "breakfast",
+    "trans": [
+      "早餐；早饭"
+    ],
+    "usphone": "['brekfəst]",
+    "ukphone": "['brekfəst]"
+  },
+  {
+    "name": "hurry up",
+    "trans": [
+      "快点"
+    ]
+  },
+  {
+    "name": "class",
+    "trans": [
+      "课；上课"
+    ],
+    "usphone": "[klɑːs]",
+    "ukphone": "[klɑːs]"
+  },
+  {
+    "name": "dinner",
+    "trans": [
+      "晚餐；晚饭"
+    ],
+    "usphone": "['dɪnə]",
+    "ukphone": "['dɪnə]"
+  },
+  {
+    "name": "bed",
+    "trans": [
+      "床"
+    ],
+    "usphone": "[bed]",
+    "ukphone": "[bed]"
+  },
+  {
+    "name": "OK",
+    "trans": [
+      "好；行"
+    ],
+    "usphone": "[əʊˈkeɪ]",
+    "ukphone": "[əʊˈkeɪ]"
+  },
+  {
+    "name": "lunch",
+    "trans": [
+      "午餐；午饭"
+    ],
+    "usphone": "[lʌntʃ]",
+    "ukphone": "[lʌntʃ]"
+  },
+  {
+    "name": "eleven",
+    "trans": [
+      "十一"
+    ],
+    "usphone": "[ɪ'levn]",
+    "ukphone": "[ɪ'levn]"
+  },
+  {
+    "name": "twelve",
+    "trans": [
+      "十二"
+    ],
+    "usphone": "[twelv]",
+    "ukphone": "[twelv]"
+  },
+  {
+    "name": "bag",
+    "trans": [
+      "包；书包"
+    ],
+    "usphone": "[bæg]",
+    "ukphone": "[bæg]"
+  },
+  {
+    "name": "these",
+    "trans": [
+      "这些"
+    ],
+    "usphone": "[ðiːz]",
+    "ukphone": "[ðiːz]"
+  },
+  {
+    "name": "here's",
+    "trans": [
+      "(=here is) 这是"
+    ]
+  },
+  {
+    "name": "farm",
+    "trans": [
+      "农场"
+    ],
+    "usphone": "[fɑːm]",
+    "ukphone": "[fɑːm]"
+  },
+  {
+    "name": "Welcome to ...",
+    "trans": [
+      "欢迎来到……"
+    ]
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们；她们；它们"
+    ],
+    "usphone": "[ðeɪ]",
+    "ukphone": "[ðeɪ]"
+  },
+  {
+    "name": "they're",
+    "trans": [
+      "(= they are) 他们是"
+    ],
+    "usphone": "[ðeɪə]",
+    "ukphone": "[ðeɪə]"
+  },
+  {
+    "name": "pig",
+    "trans": [
+      "猪"
+    ],
+    "usphone": "[pɪg]",
+    "ukphone": "[pɪg]"
+  },
+  {
+    "name": "those",
+    "trans": [
+      "那些"
+    ],
+    "usphone": "[ðəʊz]",
+    "ukphone": "[ðəʊz]"
+  },
+  {
+    "name": "cow",
+    "trans": [
+      "奶牛"
+    ],
+    "usphone": "[kaʊ]",
+    "ukphone": "[kaʊ]"
+  },
+  {
+    "name": "apple",
+    "trans": [
+      "苹果"
+    ],
+    "usphone": "['æpl]",
+    "ukphone": "['æpl]"
+  },
+  {
+    "name": "pear",
+    "trans": [
+      "梨"
+    ],
+    "usphone": "[peə]",
+    "ukphone": "[peə]"
+  },
+  {
+    "name": "chicken",
+    "trans": [
+      "鸡"
+    ],
+    "usphone": "[ˈtʃɪkɪn]",
+    "ukphone": "[ˈtʃɪkɪn]"
+  },
+  {
+    "name": "duck",
+    "trans": [
+      "鸭子"
+    ],
+    "usphone": "[dʌk]",
+    "ukphone": "[dʌk]"
+  },
+  {
+    "name": "orange",
+    "trans": [
+      "橙子"
+    ],
+    "usphone": "['ɔːrɪndʒ]",
+    "ukphone": "['ɔːrɪndʒ]"
+  },
+  {
+    "name": "picture",
+    "trans": [
+      "图画;照片"
+    ],
+    "usphone": "['pɪktʃə]",
+    "ukphone": "['pɪktʃə]"
+  },
+  {
+    "name": "who",
+    "trans": [
+      "谁"
+    ],
+    "usphone": "[huː]",
+    "ukphone": "[huː]"
+  },
+  {
+    "name": "who's",
+    "trans": [
+      "(= who is) 谁的"
+    ]
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "[wiː]",
+    "ukphone": "[wiː]"
+  },
+  {
+    "name": "we're",
+    "trans": [
+      "(= we are) 我们是"
+    ],
+    "usphone": "[wiːə/]",
+    "ukphone": "[wiːə/]"
+  },
+  {
+    "name": "twin",
+    "trans": [
+      "双胞胎之一"
+    ],
+    "usphone": "[twɪn]",
+    "ukphone": "[twɪn]"
+  },
+  {
+    "name": "aunt",
+    "trans": [
+      "姨母；伯母；婶母；舅母"
+    ],
+    "usphone": "[ɑːnt]",
+    "ukphone": "[ɑːnt]"
+  },
+  {
+    "name": "girl",
+    "trans": [
+      "女孩"
+    ],
+    "usphone": "[gɜːl]",
+    "ukphone": "[gɜːl]"
+  },
+  {
+    "name": "man",
+    "trans": [
+      "男人；人"
+    ],
+    "usphone": "[mæn]",
+    "ukphone": "[mæn]"
+  },
+  {
+    "name": "woman",
+    "trans": [
+      "妇女；女人"
+    ],
+    "usphone": "['wʊmən]",
+    "ukphone": "['wʊmən]"
+  },
+  {
+    "name": "boy",
+    "trans": [
+      "男孩"
+    ],
+    "usphone": "[bɔɪ]",
+    "ukphone": "[bɔɪ]"
+  },
+  {
+    "name": "baby",
+    "trans": [
+      "婴儿；宝宝"
+    ],
+    "usphone": "['beɪbi]",
+    "ukphone": "['beɪbi]"
+  },
+  {
+    "name": "cousin",
+    "trans": [
+      "堂兄弟(姐妹)表兄弟(姐妹)"
+    ],
+    "usphone": "['kʌzn]",
+    "ukphone": "['kʌzn]"
+  },
+  {
+    "name": "name",
+    "trans": [
+      "名字"
+    ],
+    "usphone": "[neɪm]",
+    "ukphone": "[neɪm]"
+  }
+]

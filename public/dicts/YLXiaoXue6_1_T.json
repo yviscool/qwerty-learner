@@ -1,0 +1,1088 @@
+[
+  {
+    "name": "long long ago",
+    "trans": [
+      "很久以前"
+    ]
+  },
+  {
+    "name": "magic",
+    "trans": [
+      "有魔力的，神奇的"
+    ],
+    "usphone": "[ˈmædʒɪk]",
+    "ukphone": "[ˈmædʒɪk]"
+  },
+  {
+    "name": "clever",
+    "trans": [
+      "聪明的"
+    ],
+    "usphone": "['klevə]",
+    "ukphone": "['klevə]"
+  },
+  {
+    "name": "foolish",
+    "trans": [
+      "愚蠢的"
+    ],
+    "usphone": "[ˈfuːlɪʃ]",
+    "ukphone": "[ˈfuːlɪʃ]"
+  },
+  {
+    "name": "through",
+    "trans": [
+      "穿过"
+    ],
+    "usphone": "[θruː]",
+    "ukphone": "[θruː]"
+  },
+  {
+    "name": "laugh",
+    "trans": [
+      "笑，大笑"
+    ],
+    "usphone": "[lɑːf]",
+    "ukphone": "[lɑːf]"
+  },
+  {
+    "name": "wear",
+    "trans": [
+      "穿"
+    ],
+    "usphone": "[weə]",
+    "ukphone": "[weə]"
+  },
+  {
+    "name": "turn into",
+    "trans": [
+      "变成"
+    ]
+  },
+  {
+    "name": "sentence",
+    "trans": [
+      "句子"
+    ],
+    "usphone": "[ˈsent(ə)ns]",
+    "ukphone": "[ˈsent(ə)ns]"
+  },
+  {
+    "name": "each",
+    "trans": [
+      "每个"
+    ],
+    "usphone": "[iːtʃ]",
+    "ukphone": "[iːtʃ]"
+  },
+  {
+    "name": "quick",
+    "trans": [
+      "迅速的，快的"
+    ],
+    "usphone": "[kwɪk]",
+    "ukphone": "[kwɪk]"
+  },
+  {
+    "name": "think",
+    "trans": [
+      "想，思考"
+    ],
+    "usphone": "[θɪŋk]",
+    "ukphone": "[θɪŋk]"
+  },
+  {
+    "name": "another",
+    "trans": [
+      "又一个"
+    ],
+    "usphone": "[ə'nʌðə]",
+    "ukphone": "[ə'nʌðə]"
+  },
+  {
+    "name": "next",
+    "trans": [
+      "下一个"
+    ],
+    "usphone": "['nekst]",
+    "ukphone": "['nekst]"
+  },
+  {
+    "name": "turn",
+    "trans": [
+      "机会"
+    ],
+    "usphone": "[tɜːn]",
+    "ukphone": "[tɜːn]"
+  },
+  {
+    "name": "hard",
+    "trans": [
+      "努力地，费劲地"
+    ],
+    "usphone": "[hɑːd]",
+    "ukphone": "[hɑːd]"
+  },
+  {
+    "name": "sunny",
+    "trans": [
+      "晴朗的"
+    ],
+    "usphone": "['sʌni]",
+    "ukphone": "['sʌni]"
+  },
+  {
+    "name": "show",
+    "trans": [
+      "展览，展示"
+    ],
+    "usphone": "[ʃəʊ]",
+    "ukphone": "[ʃəʊ]"
+  },
+  {
+    "name": "interesting",
+    "trans": [
+      "有趣的，有意思的"
+    ],
+    "usphone": "['ɪntərɪstɪŋ]",
+    "ukphone": "['ɪntərɪstɪŋ]"
+  },
+  {
+    "name": "weather",
+    "trans": [
+      "天气"
+    ],
+    "usphone": "['weðə]",
+    "ukphone": "['weðə]"
+  },
+  {
+    "name": "become",
+    "trans": [
+      "变成，变为"
+    ],
+    "usphone": "[bɪ'kʌm]",
+    "ukphone": "[bɪ'kʌm]"
+  },
+  {
+    "name": "windy",
+    "trans": [
+      "有风的"
+    ],
+    "usphone": "['wɪndi]",
+    "ukphone": "['wɪndi]"
+  },
+  {
+    "name": "cloudy",
+    "trans": [
+      "多云的"
+    ],
+    "usphone": "['klaʊdi]",
+    "ukphone": "['klaʊdi]"
+  },
+  {
+    "name": "high",
+    "trans": [
+      "在高处"
+    ],
+    "usphone": "[haɪ]",
+    "ukphone": "[haɪ]"
+  },
+  {
+    "name": "honey",
+    "trans": [
+      "蜂蜜"
+    ],
+    "usphone": "[ˈɒnɪst]",
+    "ukphone": "[ˈɒnɪst]"
+  },
+  {
+    "name": "drink",
+    "trans": [
+      "饮料"
+    ],
+    "usphone": "[drɪŋk]",
+    "ukphone": "[drɪŋk]"
+  },
+  {
+    "name": "ant",
+    "trans": [
+      "蚂蚁"
+    ],
+    "usphone": "[ænt]",
+    "ukphone": "[ænt]"
+  },
+  {
+    "name": "bee",
+    "trans": [
+      "蜜蜂"
+    ],
+    "usphone": "[biː]",
+    "ukphone": "[biː]"
+  },
+  {
+    "name": "cloud",
+    "trans": [
+      "云"
+    ],
+    "usphone": "[klaʊd]",
+    "ukphone": "[klaʊd]"
+  },
+  {
+    "name": "rain",
+    "trans": [
+      "下雨"
+    ],
+    "usphone": "[reɪn]",
+    "ukphone": "[reɪn]"
+  },
+  {
+    "name": "meet",
+    "trans": [
+      "遇见"
+    ],
+    "usphone": "[miːt]",
+    "ukphone": "[miːt]"
+  },
+  {
+    "name": "lose",
+    "trans": [
+      "丢失"
+    ],
+    "usphone": "[luːz]",
+    "ukphone": "[luːz]"
+  },
+  {
+    "name": "know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "[nəʊ]",
+    "ukphone": "[nəʊ]"
+  },
+  {
+    "name": "what happened?",
+    "trans": [
+      "出什么事了？"
+    ]
+  },
+  {
+    "name": "climb up",
+    "trans": [
+      "爬上"
+    ]
+  },
+  {
+    "name": "hold onto",
+    "trans": [
+      "抓紧"
+    ]
+  },
+  {
+    "name": "fly away",
+    "trans": [
+      "飞走"
+    ]
+  },
+  {
+    "name": "holiday",
+    "trans": [
+      "假日，假期"
+    ],
+    "usphone": "[ˈhɒlədi]",
+    "ukphone": "[ˈhɒlədi]"
+  },
+  {
+    "name": "National Day",
+    "trans": [
+      "国庆节"
+    ],
+    "usphone": "[ˈnæʃnəl]",
+    "ukphone": "[ˈnæʃnəl]"
+  },
+  {
+    "name": "call",
+    "trans": [
+      "打电话"
+    ],
+    "usphone": "[kɔːl]",
+    "ukphone": "[kɔːl]"
+  },
+  {
+    "name": "bund",
+    "trans": [
+      "（上海）外滩"
+    ],
+    "usphone": "[bʊnd]",
+    "ukphone": "[bʊnd]"
+  },
+  {
+    "name": "Shanghai Museum",
+    "trans": [
+      "上海博物馆"
+    ]
+  },
+  {
+    "name": "Great Wall",
+    "trans": [
+      "长城"
+    ]
+  },
+  {
+    "name": "Palace Museum",
+    "trans": [
+      "故宫"
+    ]
+  },
+  {
+    "name": "Summer Palace",
+    "trans": [
+      "颐和园"
+    ]
+  },
+  {
+    "name": "Tian'anmen Square",
+    "trans": [
+      "天安门广场"
+    ],
+    "usphone": "[/skweə]",
+    "ukphone": "[/skweə]"
+  },
+  {
+    "name": "fashion show",
+    "trans": [
+      "时装表演，时装秀"
+    ]
+  },
+  {
+    "name": "bottle",
+    "trans": [
+      "瓶子"
+    ],
+    "usphone": "[ˈbɒtl]",
+    "ukphone": "[ˈbɒtl]"
+  },
+  {
+    "name": "go well",
+    "trans": [
+      "进展顺利"
+    ]
+  },
+  {
+    "name": "at first",
+    "trans": [
+      "开始，最初"
+    ]
+  },
+  {
+    "name": "heavy rain",
+    "trans": [
+      "大雨"
+    ]
+  },
+  {
+    "name": "then and now",
+    "trans": [
+      "过去和现在"
+    ]
+  },
+  {
+    "name": "ago",
+    "trans": [
+      "…以前"
+    ],
+    "usphone": "[ə'gəʊ]",
+    "ukphone": "[ə'gəʊ]"
+  },
+  {
+    "name": "telephone",
+    "trans": [
+      "电话"
+    ],
+    "usphone": "[fəʊn]",
+    "ukphone": "[fəʊn]"
+  },
+  {
+    "name": "office",
+    "trans": [
+      "办公室"
+    ],
+    "usphone": "['ɔːfɪs]",
+    "ukphone": "['ɔːfɪs]"
+  },
+  {
+    "name": "mobile phone",
+    "trans": [
+      "移动电话"
+    ]
+  },
+  {
+    "name": "any where",
+    "trans": [
+      "随处，到处"
+    ]
+  },
+  {
+    "name": "radio",
+    "trans": [
+      "收音机"
+    ],
+    "usphone": "['reɪdɪəʊ]",
+    "ukphone": "['reɪdɪəʊ]"
+  },
+  {
+    "name": "newspaper",
+    "trans": [
+      "报纸"
+    ],
+    "usphone": "['njuːzˌpeɪpə]",
+    "ukphone": "['njuːzˌpeɪpə]"
+  },
+  {
+    "name": "news",
+    "trans": [
+      "新闻"
+    ],
+    "usphone": "[njuːz]",
+    "ukphone": "[njuːz]"
+  },
+  {
+    "name": "e-book",
+    "trans": [
+      "电子书"
+    ]
+  },
+  {
+    "name": "make friends",
+    "trans": [
+      "交朋友"
+    ]
+  },
+  {
+    "name": "all over the world",
+    "trans": [
+      "全世界"
+    ]
+  },
+  {
+    "name": "do shopping",
+    "trans": [
+      "购物"
+    ]
+  },
+  {
+    "name": "TV",
+    "trans": [
+      "电视"
+    ],
+    "usphone": "[‚tiː'viː]",
+    "ukphone": "[‚tiː'viː]"
+  },
+  {
+    "name": "look out of",
+    "trans": [
+      "朝……外看"
+    ]
+  },
+  {
+    "name": "What day is today?",
+    "trans": [
+      "今天是星期几？"
+    ]
+  },
+  {
+    "name": "go on",
+    "trans": [
+      "继续"
+    ]
+  },
+  {
+    "name": "spell",
+    "trans": [
+      "拼读，拼写"
+    ],
+    "usphone": "[spel]",
+    "ukphone": "[spel]"
+  },
+  {
+    "name": "make a sentence",
+    "trans": [
+      "造句"
+    ]
+  },
+  {
+    "name": "with",
+    "trans": [
+      "用"
+    ],
+    "usphone": "[wɪð]",
+    "ukphone": "[wɪð]"
+  },
+  {
+    "name": "yesterday",
+    "trans": [
+      "昨天"
+    ],
+    "usphone": "['jestədi]",
+    "ukphone": "['jestədi]"
+  },
+  {
+    "name": "sign",
+    "trans": [
+      "标识"
+    ],
+    "usphone": "[saɪn]",
+    "ukphone": "[saɪn]"
+  },
+  {
+    "name": "shopping center",
+    "trans": [
+      "购物中心"
+    ]
+  },
+  {
+    "name": "careful",
+    "trans": [
+      "小心，当心"
+    ],
+    "usphone": "['keəfəl]",
+    "ukphone": "['keəfəl]"
+  },
+  {
+    "name": "What does it mean?",
+    "trans": [
+      "这是什么意思？"
+    ]
+  },
+  {
+    "name": "mean",
+    "trans": [
+      "意思是"
+    ],
+    "usphone": "[miːn]",
+    "ukphone": "[miːn]"
+  },
+  {
+    "name": "litter",
+    "trans": [
+      "乱扔垃圾"
+    ],
+    "usphone": "['lɪtə]",
+    "ukphone": "['lɪtə]"
+  },
+  {
+    "name": "go in",
+    "trans": [
+      "进入"
+    ]
+  },
+  {
+    "name": "take",
+    "trans": [
+      "携带"
+    ],
+    "usphone": "[teɪk]",
+    "ukphone": "[teɪk]"
+  },
+  {
+    "name": "restaurant",
+    "trans": [
+      "饭店，餐厅"
+    ],
+    "usphone": "[ˈrestərɒnt]",
+    "ukphone": "[ˈrestərɒnt]"
+  },
+  {
+    "name": "someone",
+    "trans": [
+      "某人"
+    ],
+    "usphone": "['sʌmwʌn]",
+    "ukphone": "['sʌmwʌn]"
+  },
+  {
+    "name": "smell",
+    "trans": [
+      "闻到"
+    ],
+    "usphone": "[smel]",
+    "ukphone": "[smel]"
+  },
+  {
+    "name": "No eating or drinking.",
+    "trans": [
+      "请勿饮食。"
+    ]
+  },
+  {
+    "name": "No littering.",
+    "trans": [
+      "请勿乱扔垃圾。"
+    ]
+  },
+  {
+    "name": "No parking.",
+    "trans": [
+      "请勿停车。"
+    ]
+  },
+  {
+    "name": "No smoking.",
+    "trans": [
+      "请勿抽烟。"
+    ]
+  },
+  {
+    "name": "Danger！",
+    "trans": [
+      "危险！"
+    ]
+  },
+  {
+    "name": "Wet floor.",
+    "trans": [
+      "小心地滑."
+    ]
+  },
+  {
+    "name": "outing",
+    "trans": [
+      "外出游玩，远足"
+    ],
+    "usphone": "[ˈaʊtɪŋ]",
+    "ukphone": "[ˈaʊtɪŋ]"
+  },
+  {
+    "name": "walk on",
+    "trans": [
+      "继续走路"
+    ]
+  },
+  {
+    "name": "around",
+    "trans": [
+      "在……周围"
+    ],
+    "usphone": "[ə'raʊnd]",
+    "ukphone": "[ə'raʊnd]"
+  },
+  {
+    "name": "keep",
+    "trans": [
+      "保持，维持"
+    ],
+    "usphone": "[kiːp]",
+    "ukphone": "[kiːp]"
+  },
+  {
+    "name": "clean",
+    "trans": [
+      "干净的，整洁的"
+    ],
+    "usphone": "[kliːn]",
+    "ukphone": "[kliːn]"
+  },
+  {
+    "name": "make",
+    "trans": [
+      "使……变得"
+    ],
+    "usphone": "[meɪk]",
+    "ukphone": "[meɪk]"
+  },
+  {
+    "name": "photo",
+    "trans": [
+      "照片"
+    ],
+    "usphone": "['fəʊtəʊ]",
+    "ukphone": "['fəʊtəʊ]"
+  },
+  {
+    "name": "air",
+    "trans": [
+      "空气"
+    ],
+    "usphone": "[eə]",
+    "ukphone": "[eə]"
+  },
+  {
+    "name": "dirty",
+    "trans": [
+      "肮脏的"
+    ],
+    "usphone": "['dɜːti]",
+    "ukphone": "['dɜːti]"
+  },
+  {
+    "name": "smoke",
+    "trans": [
+      "烟雾"
+    ],
+    "usphone": "[sməʊk]",
+    "ukphone": "[sməʊk]"
+  },
+  {
+    "name": "rubbish",
+    "trans": [
+      "垃圾"
+    ],
+    "usphone": "['rʌbɪʃ]",
+    "ukphone": "['rʌbɪʃ]"
+  },
+  {
+    "name": "messy",
+    "trans": [
+      "肮脏的，乱七八糟的"
+    ],
+    "usphone": "[ˈmesi]",
+    "ukphone": "[ˈmesi]"
+  },
+  {
+    "name": "dead",
+    "trans": [
+      "死的"
+    ],
+    "usphone": "[ded]",
+    "ukphone": "[ded]"
+  },
+  {
+    "name": "move ... away from",
+    "trans": [
+      "从……搬走"
+    ]
+  },
+  {
+    "name": "bin",
+    "trans": [
+      "垃圾桶"
+    ],
+    "usphone": "[bɪn]",
+    "ukphone": "[bɪn]"
+  },
+  {
+    "name": "plant",
+    "trans": [
+      "种植，栽种"
+    ],
+    "usphone": "[plɑːnt]",
+    "ukphone": "[plɑːnt]"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更多的"
+    ],
+    "usphone": "[mɔː]",
+    "ukphone": "[mɔː]"
+  },
+  {
+    "name": "museum",
+    "trans": [
+      "博物馆"
+    ],
+    "usphone": "[mjuː'zɪəm]",
+    "ukphone": "[mjuː'zɪəm]"
+  },
+  {
+    "name": "throw",
+    "trans": [
+      "扔"
+    ],
+    "usphone": "[θrəʊ]",
+    "ukphone": "[θrəʊ]"
+  },
+  {
+    "name": "skin",
+    "trans": [
+      "果皮"
+    ],
+    "usphone": "[skɪn]",
+    "ukphone": "[skɪn]"
+  },
+  {
+    "name": "pick ... up",
+    "trans": [
+      "捡起，拾起"
+    ]
+  },
+  {
+    "name": "slip",
+    "trans": [
+      "滑倒"
+    ],
+    "usphone": "[slɪp]",
+    "ukphone": "[slɪp]"
+  },
+  {
+    "name": "fall",
+    "trans": [
+      "摔倒"
+    ],
+    "usphone": "[fɔːl]",
+    "ukphone": "[fɔːl]"
+  },
+  {
+    "name": "protect",
+    "trans": [
+      "保护"
+    ],
+    "usphone": "[prə'tekt]",
+    "ukphone": "[prə'tekt]"
+  },
+  {
+    "name": "Earth",
+    "trans": [
+      "地球"
+    ],
+    "usphone": "[ɜːθ]",
+    "ukphone": "[ɜːθ]"
+  },
+  {
+    "name": "save",
+    "trans": [
+      "节约"
+    ],
+    "usphone": "[seɪv]",
+    "ukphone": "[seɪv]"
+  },
+  {
+    "name": "useful",
+    "trans": [
+      "有用的"
+    ],
+    "usphone": "['juːsfəl]",
+    "ukphone": "['juːsfəl]"
+  },
+  {
+    "name": "use",
+    "trans": [
+      "使用，利用"
+    ],
+    "usphone": "[juːz]",
+    "ukphone": "[juːz]"
+  },
+  {
+    "name": "waste",
+    "trans": [
+      "浪费"
+    ],
+    "usphone": "[weɪst]",
+    "ukphone": "[weɪst]"
+  },
+  {
+    "name": "much",
+    "trans": [
+      "很多"
+    ],
+    "usphone": "[mʌtʃ]",
+    "ukphone": "[mʌtʃ]"
+  },
+  {
+    "name": "reuse",
+    "trans": [
+      "再利用"
+    ],
+    "usphone": "[riːˈjuːz]",
+    "ukphone": "[riːˈjuːz]"
+  },
+  {
+    "name": "energy",
+    "trans": [
+      "能源"
+    ],
+    "usphone": "['enədʒi]",
+    "ukphone": "['enədʒi]"
+  },
+  {
+    "name": "come from",
+    "trans": [
+      "从……来，来自"
+    ]
+  },
+  {
+    "name": "coal",
+    "trans": [
+      "煤炭"
+    ],
+    "usphone": "[kəʊl]",
+    "ukphone": "[kəʊl]"
+  },
+  {
+    "name": "oil",
+    "trans": [
+      "石油"
+    ],
+    "usphone": "[ɔɪl]",
+    "ukphone": "[ɔɪl]"
+  },
+  {
+    "name": "drive",
+    "trans": [
+      "开车，驾车"
+    ],
+    "usphone": "[draɪv]",
+    "ukphone": "[draɪv]"
+  },
+  {
+    "name": "wood",
+    "trans": [
+      "木头，木材"
+    ],
+    "usphone": "[wʊd]",
+    "ukphone": "[wʊd]"
+  },
+  {
+    "name": "cut down",
+    "trans": [
+      "砍伐，砍掉"
+    ],
+    "usphone": "['kʌtdaʊn]",
+    "ukphone": "['kʌtdaʊn]"
+  },
+  {
+    "name": "too many",
+    "trans": [
+      "太多"
+    ]
+  },
+  {
+    "name": "plastic",
+    "trans": [
+      "塑料"
+    ],
+    "usphone": "['plæstɪk]",
+    "ukphone": "['plæstɪk]"
+  },
+  {
+    "name": "paper",
+    "trans": [
+      "纸"
+    ],
+    "usphone": "['peɪpə]",
+    "ukphone": "['peɪpə]"
+  },
+  {
+    "name": "glass",
+    "trans": [
+      "玻璃"
+    ],
+    "usphone": "[glɑːs]",
+    "ukphone": "[glɑːs]"
+  },
+  {
+    "name": "project",
+    "trans": [
+      "课题"
+    ],
+    "usphone": "[ˈprɒdʒekt]",
+    "ukphone": "[ˈprɒdʒekt]"
+  },
+  {
+    "name": "poster",
+    "trans": [
+      "海报"
+    ],
+    "usphone": "[ˈpəʊstə]",
+    "ukphone": "[ˈpəʊstə]"
+  },
+  {
+    "name": "gate",
+    "trans": [
+      "大门"
+    ],
+    "usphone": "[geɪt]",
+    "ukphone": "[geɪt]"
+  },
+  {
+    "name": "Hong Kong",
+    "trans": [
+      "香港"
+    ],
+    "usphone": "[ˈhɒŋˈkɒŋ ]",
+    "ukphone": "[ˈhɒŋˈkɒŋ ]"
+  },
+  {
+    "name": "excited",
+    "trans": [
+      "激动的，兴奋的"
+    ],
+    "usphone": "[ɪk'saɪtɪd]",
+    "ukphone": "[ɪk'saɪtɪd]"
+  },
+  {
+    "name": "food",
+    "trans": [
+      "食物，食品"
+    ],
+    "usphone": "[fuːd]",
+    "ukphone": "[fuːd]"
+  },
+  {
+    "name": "tangyuan",
+    "trans": [
+      "汤圆"
+    ]
+  },
+  {
+    "name": "Chinese New Year's Eve",
+    "trans": [
+      "大年夜，除夕"
+    ]
+  },
+  {
+    "name": "Chinese New Year's Day",
+    "trans": [
+      "大年初一，春节"
+    ]
+  },
+  {
+    "name": "red packet",
+    "trans": [
+      "红包"
+    ]
+  },
+  {
+    "name": "lion dance",
+    "trans": [
+      "舞狮"
+    ]
+  },
+  {
+    "name": "fireworks",
+    "trans": [
+      "烟花表演"
+    ],
+    "usphone": "[ˈfaɪəwɜːks]",
+    "ukphone": "[ˈfaɪəwɜːks]"
+  },
+  {
+    "name": "firecracker",
+    "trans": [
+      "鞭炮"
+    ]
+  },
+  {
+    "name": "rich",
+    "trans": [
+      "富有的，有钱的"
+    ],
+    "usphone": "[rɪtʃ]",
+    "ukphone": "[rɪtʃ]"
+  },
+  {
+    "name": "plan",
+    "trans": [
+      "计划，打算"
+    ],
+    "usphone": "[plæn]",
+    "ukphone": "[plæn]"
+  },
+  {
+    "name": "hooray",
+    "trans": [
+      "好极了"
+    ],
+    "usphone": "[hʊˈreɪ]",
+    "ukphone": "[hʊˈreɪ]"
+  }
+]

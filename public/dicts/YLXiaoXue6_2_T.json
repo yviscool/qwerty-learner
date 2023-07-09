@@ -1,0 +1,828 @@
+[
+  {
+    "name": "mouse",
+    "trans": [
+      "老鼠"
+    ],
+    "usphone": "[maʊs]",
+    "ukphone": "[maʊs]"
+  },
+  {
+    "name": "large",
+    "trans": [
+      "大的"
+    ],
+    "usphone": "[lɑːdʒ]",
+    "ukphone": "[lɑːdʒ]"
+  },
+  {
+    "name": "strong",
+    "trans": [
+      "强大的，强壮的"
+    ],
+    "usphone": "[strɒŋ]",
+    "ukphone": "[strɒŋ]"
+  },
+  {
+    "name": "walk by",
+    "trans": [
+      "走过，路过"
+    ]
+  },
+  {
+    "name": "wake ... up",
+    "trans": [
+      "吵醒，叫醒"
+    ]
+  },
+  {
+    "name": "some day",
+    "trans": [
+      "某一天"
+    ]
+  },
+  {
+    "name": "quietly",
+    "trans": [
+      "小声地，安静地"
+    ],
+    "usphone": "['kwaɪətli]",
+    "ukphone": "['kwaɪətli]"
+  },
+  {
+    "name": "loudly",
+    "trans": [
+      "大声地"
+    ],
+    "usphone": "['laʊdli]",
+    "ukphone": "['laʊdli]"
+  },
+  {
+    "name": "the next day",
+    "trans": [
+      "第二天"
+    ]
+  },
+  {
+    "name": "net",
+    "trans": [
+      "网"
+    ],
+    "usphone": "[net]",
+    "ukphone": "[net]"
+  },
+  {
+    "name": "bite",
+    "trans": [
+      "咬"
+    ],
+    "usphone": "[baɪt]",
+    "ukphone": "[baɪt]"
+  },
+  {
+    "name": "sharp",
+    "trans": [
+      "锋利的，尖的"
+    ],
+    "usphone": "[ʃɑːp]",
+    "ukphone": "[ʃɑːp]"
+  },
+  {
+    "name": "ask",
+    "trans": [
+      "问"
+    ],
+    "usphone": "[ɑːsk]",
+    "ukphone": "[ɑːsk]"
+  },
+  {
+    "name": "just then",
+    "trans": [
+      "就在那时"
+    ]
+  },
+  {
+    "name": "soon",
+    "trans": [
+      "不久，很快"
+    ],
+    "usphone": "[suːn]",
+    "ukphone": "[suːn]"
+  },
+  {
+    "name": "get out",
+    "trans": [
+      "出来，出去"
+    ]
+  },
+  {
+    "name": "happily",
+    "trans": [
+      "开心地，高兴地"
+    ],
+    "usphone": "['hæpɪli]",
+    "ukphone": "['hæpɪli]"
+  },
+  {
+    "name": "from then on",
+    "trans": [
+      "从那时起"
+    ]
+  },
+  {
+    "name": "weak",
+    "trans": [
+      "弱的，软弱的"
+    ],
+    "usphone": "[wiːk]",
+    "ukphone": "[wiːk]"
+  },
+  {
+    "name": "cheer",
+    "trans": [
+      "欢呼"
+    ],
+    "usphone": "[tʃɪə]",
+    "ukphone": "[tʃɪə]"
+  },
+  {
+    "name": "hit",
+    "trans": [
+      "打，击"
+    ],
+    "usphone": "[hɪt]",
+    "ukphone": "[hɪt]"
+  },
+  {
+    "name": "ground",
+    "trans": [
+      "地面，地上"
+    ],
+    "usphone": "[graʊnd]",
+    "ukphone": "[graʊnd]"
+  },
+  {
+    "name": "deep",
+    "trans": [
+      "深的"
+    ],
+    "usphone": "[diːp]",
+    "ukphone": "[diːp]"
+  },
+  {
+    "name": "reach",
+    "trans": [
+      "够得着"
+    ],
+    "usphone": "[riːtʃ]",
+    "ukphone": "[riːtʃ]"
+  },
+  {
+    "name": "pour ... into",
+    "trans": [
+      "把……倒入"
+    ]
+  },
+  {
+    "name": "child",
+    "trans": [
+      "孩子，小孩"
+    ],
+    "usphone": "[tʃaɪld]",
+    "ukphone": "[tʃaɪld]"
+  },
+  {
+    "name": "habit",
+    "trans": [
+      "习惯"
+    ],
+    "usphone": "[ˈhæbɪt]",
+    "ukphone": "[ˈhæbɪt]"
+  },
+  {
+    "name": "never",
+    "trans": [
+      "从不"
+    ],
+    "usphone": "['nevə]",
+    "ukphone": "['nevə]"
+  },
+  {
+    "name": "late",
+    "trans": [
+      "迟，晚"
+    ],
+    "usphone": "[leɪt]",
+    "ukphone": "[leɪt]"
+  },
+  {
+    "name": "put ... in order",
+    "trans": [
+      "把……整理得井井有条"
+    ]
+  },
+  {
+    "name": "finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "['fɪnɪʃ]",
+    "ukphone": "['fɪnɪʃ]"
+  },
+  {
+    "name": "tidy",
+    "trans": [
+      "干净的，整齐的"
+    ],
+    "usphone": "['taɪdi]",
+    "ukphone": "['taɪdi]"
+  },
+  {
+    "name": "bad",
+    "trans": [
+      "不好的，坏的"
+    ],
+    "usphone": "[bæd]",
+    "ukphone": "[bæd]"
+  },
+  {
+    "name": "sleepy",
+    "trans": [
+      "困的，困倦的"
+    ],
+    "usphone": "[sliːp]",
+    "ukphone": "[sliːp]"
+  },
+  {
+    "name": "last night",
+    "trans": [
+      "昨夜"
+    ]
+  },
+  {
+    "name": "fast",
+    "trans": [
+      "快地"
+    ],
+    "usphone": "[fɑːst]",
+    "ukphone": "[fɑːst]"
+  },
+  {
+    "name": "go into",
+    "trans": [
+      "走进，走入"
+    ]
+  },
+  {
+    "name": "healthy",
+    "trans": [
+      "健康的"
+    ],
+    "usphone": "['helθi]",
+    "ukphone": "['helθi]"
+  },
+  {
+    "name": "diet",
+    "trans": [
+      "饮食"
+    ],
+    "usphone": "[daɪ]",
+    "ukphone": "[daɪ]"
+  },
+  {
+    "name": "a little",
+    "trans": [
+      "一点"
+    ]
+  },
+  {
+    "name": "a few",
+    "trans": [
+      "几个"
+    ]
+  },
+  {
+    "name": "at a time",
+    "trans": [
+      "一次"
+    ]
+  },
+  {
+    "name": "cola",
+    "trans": [
+      "可乐"
+    ],
+    "usphone": "['kəʊlə]",
+    "ukphone": "['kəʊlə]"
+  },
+  {
+    "name": "too much",
+    "trans": [
+      "太多"
+    ]
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "[niːd]",
+    "ukphone": "[niːd]"
+  },
+  {
+    "name": "road",
+    "trans": [
+      "马路，公路"
+    ],
+    "usphone": "[rəʊd]",
+    "ukphone": "[rəʊd]"
+  },
+  {
+    "name": "safety",
+    "trans": [
+      "安全"
+    ],
+    "usphone": "['seɪfti]",
+    "ukphone": "['seɪfti]"
+  },
+  {
+    "name": "cross",
+    "trans": [
+      "穿过，穿行"
+    ],
+    "usphone": "[krɔːs]",
+    "ukphone": "[krɔːs]"
+  },
+  {
+    "name": "safely",
+    "trans": [
+      "安全地"
+    ]
+  },
+  {
+    "name": "must",
+    "trans": [
+      "必须"
+    ],
+    "usphone": "[mʌst]",
+    "ukphone": "[mʌst]"
+  },
+  {
+    "name": "zebra crossing",
+    "trans": [
+      "斑马线"
+    ]
+  },
+  {
+    "name": "safe",
+    "trans": [
+      "安全的"
+    ],
+    "usphone": "[seɪf]",
+    "ukphone": "[seɪf]"
+  },
+  {
+    "name": "pavement",
+    "trans": [
+      "人行道"
+    ],
+    "usphone": "[ˈpeɪvmənt]",
+    "ukphone": "[ˈpeɪvmənt]"
+  },
+  {
+    "name": "look out for",
+    "trans": [
+      "当心，提防"
+    ]
+  },
+  {
+    "name": "follow",
+    "trans": [
+      "遵守"
+    ],
+    "usphone": "[ˈfɒləʊ]",
+    "ukphone": "[ˈfɒləʊ]"
+  },
+  {
+    "name": "rule",
+    "trans": [
+      "规则"
+    ],
+    "usphone": "[ruːl]",
+    "ukphone": "[ruːl]"
+  },
+  {
+    "name": "stay",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "[steɪ]",
+    "ukphone": "[steɪ]"
+  },
+  {
+    "name": "light",
+    "trans": [
+      "灯"
+    ],
+    "usphone": "[laɪt]",
+    "ukphone": "[laɪt]"
+  },
+  {
+    "name": "Children's Day",
+    "trans": [
+      "儿童节"
+    ]
+  },
+  {
+    "name": "clown",
+    "trans": [
+      "小丑"
+    ],
+    "usphone": "[klaʊn]",
+    "ukphone": "[klaʊn]"
+  },
+  {
+    "name": "balloon",
+    "trans": [
+      "气球"
+    ],
+    "usphone": "[bəˈluːn]",
+    "ukphone": "[bəˈluːn]"
+  },
+  {
+    "name": "appear",
+    "trans": [
+      "出现"
+    ],
+    "usphone": "[ə'pɪə]",
+    "ukphone": "[ə'pɪə]"
+  },
+  {
+    "name": "begin",
+    "trans": [
+      "开始"
+    ],
+    "usphone": "[bɪ'gɪn]",
+    "ukphone": "[bɪ'gɪn]"
+  },
+  {
+    "name": "put on",
+    "trans": [
+      "上演，表演"
+    ]
+  },
+  {
+    "name": "country",
+    "trans": [
+      "国家"
+    ],
+    "usphone": "['kʌntri]",
+    "ukphone": "['kʌntri]"
+  },
+  {
+    "name": "learn",
+    "trans": [
+      "学习"
+    ],
+    "usphone": "[lɜːn]",
+    "ukphone": "[lɜːn]"
+  },
+  {
+    "name": "about",
+    "trans": [
+      "关于"
+    ],
+    "usphone": "[ə'baʊt]",
+    "ukphone": "[ə'baʊt]"
+  },
+  {
+    "name": "next week",
+    "trans": [
+      "下周"
+    ]
+  },
+  {
+    "name": "find out",
+    "trans": [
+      "发现"
+    ],
+    "usphone": "['faɪndaʊt]",
+    "ukphone": "['faɪndaʊt]"
+  },
+  {
+    "name": "magazine",
+    "trans": [
+      "杂志"
+    ],
+    "usphone": "[ˌmægə'ziːn]",
+    "ukphone": "[ˌmægə'ziːn]"
+  },
+  {
+    "name": "kangaroo",
+    "trans": [
+      "袋鼠"
+    ],
+    "usphone": "[kæŋɡəˈruː]",
+    "ukphone": "[kæŋɡəˈruː]"
+  },
+  {
+    "name": "koala",
+    "trans": [
+      "考拉"
+    ],
+    "usphone": "[kəʊ'ɑːlə]",
+    "ukphone": "[kəʊ'ɑːlə]"
+  },
+  {
+    "name": "lover",
+    "trans": [
+      "爱好者"
+    ]
+  },
+  {
+    "name": "Australian football",
+    "trans": [
+      "澳式橄榄球"
+    ]
+  },
+  {
+    "name": "exciting",
+    "trans": [
+      "令人激动的，令人兴奋的"
+    ],
+    "usphone": "[ɪk'saɪtɪŋ]",
+    "ukphone": "[ɪk'saɪtɪŋ]"
+  },
+  {
+    "name": "Sydney",
+    "trans": [
+      "（澳大利亚城市）悉尼"
+    ],
+    "usphone": "['sɪdni]",
+    "ukphone": "['sɪdni]"
+  },
+  {
+    "name": "welcome",
+    "trans": [
+      "欢迎"
+    ],
+    "usphone": "['welkəm]",
+    "ukphone": "['welkəm]"
+  },
+  {
+    "name": "visitor",
+    "trans": [
+      "游人，游客"
+    ],
+    "usphone": "['vɪzɪtə]",
+    "ukphone": "['vɪzɪtə]"
+  },
+  {
+    "name": "London",
+    "trans": [
+      "（英国城市）伦敦"
+    ],
+    "usphone": "['lʌndən]",
+    "ukphone": "['lʌndən]"
+  },
+  {
+    "name": "Oxford",
+    "trans": [
+      "（英国城市）牛津"
+    ],
+    "usphone": "[ˈɒksfəd]",
+    "ukphone": "[ˈɒksfəd]"
+  },
+  {
+    "name": "Big Ben",
+    "trans": [
+      "（英国）大本钟"
+    ],
+    "usphone": "[ben]",
+    "ukphone": "[ben]"
+  },
+  {
+    "name": "London Eye",
+    "trans": [
+      "（伦敦的摩天轮）伦敦眼"
+    ],
+    "usphone": "['lʌndən//aɪ]",
+    "ukphone": "['lʌndən//aɪ]"
+  },
+  {
+    "name": "Tower Bridge",
+    "trans": [
+      "（伦敦）塔桥"
+    ]
+  },
+  {
+    "name": "like",
+    "trans": [
+      "如"
+    ],
+    "usphone": "[laɪk]",
+    "ukphone": "[laɪk]"
+  },
+  {
+    "name": "What do you think?",
+    "trans": [
+      "你觉得呢?"
+    ]
+  },
+  {
+    "name": "summer holiday",
+    "trans": [
+      "暑假"
+    ]
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将，将要"
+    ],
+    "usphone": "[wɪl]",
+    "ukphone": "[wɪl]"
+  },
+  {
+    "name": "go back to",
+    "trans": [
+      "回去"
+    ]
+  },
+  {
+    "name": "how long",
+    "trans": [
+      "多久"
+    ]
+  },
+  {
+    "name": "stay",
+    "trans": [
+      "停留"
+    ],
+    "usphone": "[steɪ]",
+    "ukphone": "[steɪ]"
+  },
+  {
+    "name": "sound",
+    "trans": [
+      "听起来，听上去"
+    ],
+    "usphone": "[saʊnd]",
+    "ukphone": "[saʊnd]"
+  },
+  {
+    "name": "Disneyland",
+    "trans": [
+      "迪士尼乐园"
+    ],
+    "usphone": "['dɪznɪlænd]",
+    "ukphone": "['dɪznɪlænd]"
+  },
+  {
+    "name": "Ocean Park",
+    "trans": [
+      "（香港）海洋公园"
+    ]
+  },
+  {
+    "name": "Taipei",
+    "trans": [
+      "台北"
+    ]
+  },
+  {
+    "name": "travel",
+    "trans": [
+      "旅游"
+    ],
+    "usphone": "['trævl]",
+    "ukphone": "['trævl]"
+  },
+  {
+    "name": "traveller",
+    "trans": [
+      "旅行者"
+    ],
+    "usphone": "['trævlə]",
+    "ukphone": "['trævlə]"
+  },
+  {
+    "name": "travel around the world",
+    "trans": [
+      "环游世界"
+    ]
+  },
+  {
+    "name": "dream",
+    "trans": [
+      "梦想"
+    ],
+    "usphone": "[driːm]",
+    "ukphone": "[driːm]"
+  },
+  {
+    "name": "future",
+    "trans": [
+      "将来，未来"
+    ],
+    "usphone": "['fjuːtʃə]",
+    "ukphone": "['fjuːtʃə]"
+  },
+  {
+    "name": "care about",
+    "trans": [
+      "关心，在乎"
+    ]
+  },
+  {
+    "name": "astronaut",
+    "trans": [
+      "宇航员"
+    ],
+    "usphone": "[ˈæstrənɔːt]",
+    "ukphone": "[ˈæstrənɔːt]"
+  },
+  {
+    "name": "spaceship",
+    "trans": [
+      "宇宙飞船"
+    ],
+    "usphone": "['speɪsʃɪp]",
+    "ukphone": "['speɪsʃɪp]"
+  },
+  {
+    "name": "Moon",
+    "trans": [
+      "月球"
+    ],
+    "usphone": "[muːn]",
+    "ukphone": "[muːn]"
+  },
+  {
+    "name": "football player",
+    "trans": [
+      "足球运动员"
+    ]
+  },
+  {
+    "name": "World Cup",
+    "trans": [
+      "世界杯"
+    ],
+    "usphone": "[wɜːld/ /kʌp]",
+    "ukphone": "[wɜːld/ /kʌp]"
+  },
+  {
+    "name": "dancer",
+    "trans": [
+      "舞蹈家"
+    ]
+  },
+  {
+    "name": "pianist",
+    "trans": [
+      "钢琴演奏家"
+    ],
+    "usphone": "[ˈfɪzɪks]",
+    "ukphone": "[ˈfɪzɪks]"
+  },
+  {
+    "name": "come true",
+    "trans": [
+      "实现，成真"
+    ],
+    "usphone": "[ˌkʌm'truː]",
+    "ukphone": "[ˌkʌm'truː]"
+  },
+  {
+    "name": "take care of",
+    "trans": [
+      "爱护；照顾"
+    ]
+  },
+  {
+    "name": "scientist",
+    "trans": [
+      "科学家"
+    ],
+    "usphone": "['saɪəntɪst]",
+    "ukphone": "['saɪəntɪst]"
+  },
+  {
+    "name": "artist",
+    "trans": [
+      "艺术家"
+    ],
+    "usphone": "['ɑːtɪst]",
+    "ukphone": "['ɑːtɪst]"
+  },
+  {
+    "name": "paint",
+    "trans": [
+      "画画"
+    ],
+    "usphone": "[peɪnt]",
+    "ukphone": "[peɪnt]"
+  }
+]

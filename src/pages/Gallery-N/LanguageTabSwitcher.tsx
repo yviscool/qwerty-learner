@@ -14,10 +14,10 @@ export type LanguageTabOption = {
 }
 
 const options: LanguageTabOption[] = [
+  { id: 'code', name: 'Code', flag: codeFlag },
   { id: 'en', name: '英语', flag: enFlag },
   { id: 'ja', name: '日语', flag: jpFlag },
   { id: 'de', name: '德语', flag: deFlag },
-  { id: 'code', name: 'Code', flag: codeFlag },
 ]
 
 export function LanguageTabSwitcher() {
