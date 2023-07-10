@@ -6,7 +6,7 @@
     ]
   },
   {
-    "name": "Stand up.",
+    "name": "Stand up",
     "trans": [
       "起立"
     ]
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "name": "sit down.",
+    "name": "sit down",
     "trans": [
       "坐下"
     ]
@@ -432,7 +432,7 @@
     "ukphone": "[waʊ]"
   },
   {
-    "name": "How old are you?",
+    "name": "How old are you",
     "trans": [
       "你多大了？"
     ]
@@ -518,7 +518,7 @@
     "ukphone": "[aʊt]"
   },
   {
-    "name": "What a nice cake!",
+    "name": "What a nice cake",
     "trans": [
       "多么好的蛋糕！"
     ]
@@ -538,13 +538,13 @@
     "ukphone": "[wɒnt]"
   },
   {
-    "name": "It's time for ...",
+    "name": "It's time for",
     "trans": [
       "是时候了…"
     ]
   },
   {
-    "name": "What time is it?",
+    "name": "What time is it",
     "trans": [
       "几点了？"
     ]
@@ -672,7 +672,7 @@
     "ukphone": "[fɑːm]"
   },
   {
-    "name": "Welcome to ...",
+    "name": "Welcome to",
     "trans": [
       "欢迎来到……"
     ]

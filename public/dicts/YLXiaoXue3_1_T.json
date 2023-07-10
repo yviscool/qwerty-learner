@@ -22,7 +22,7 @@
     "ukphone": "[mɪs]"
   },
   {
-    "name": "Hi.",
+    "name": "Hi",
     "trans": [
       "你好。"
     ]
@@ -248,7 +248,7 @@
     "ukphone": "['grændmɑː]"
   },
   {
-    "name": "Good evening.",
+    "name": "Good evening",
     "trans": [
       "晚上好。"
     ]
@@ -300,7 +300,7 @@
     "ukphone": "[skɜːt]"
   },
   {
-    "name": "How nice!",
+    "name": "How nice",
     "trans": [
       "真好看!"
     ]
@@ -338,7 +338,7 @@
     "ukphone": "[njuː]"
   },
   {
-    "name": "What colour ...?",
+    "name": "What colour",
     "trans": [
       "……是什么颜色的?"
     ]
@@ -432,7 +432,7 @@
     "ukphone": "[hwaɪt]"
   },
   {
-    "name": "Would you like ...?",
+    "name": "Would you like",
     "trans": [
       "你想要......吗?"
     ]
@@ -446,7 +446,7 @@
     "ukphone": "[æn]"
   },
   {
-    "name": "Yes，please.",
+    "name": "Yes please",
     "trans": [
       "好的；太感谢了.。"
     ]
@@ -476,19 +476,19 @@
     "ukphone": "[paɪ]"
   },
   {
-    "name": "Nice to meet you.",
+    "name": "Nice to meet you",
     "trans": [
       "很高兴认识你。"
     ]
   },
   {
-    "name": "No，thank you.",
+    "name": "No thank you",
     "trans": [
       "不；谢谢你。"
     ]
   },
   {
-    "name": "What about ...?",
+    "name": "What about",
     "trans": [
       "……怎么样？"
     ]
@@ -546,7 +546,7 @@
     "ukphone": "[hwɒts]"
   },
   {
-    "name": "Happy New Year!",
+    "name": "Happy New Year",
     "trans": [
       "新年快乐!"
     ]
@@ -560,7 +560,7 @@
     "ukphone": "['ʌŋkl]"
   },
   {
-    "name": "This is for you.",
+    "name": "This is for you",
     "trans": [
       "这是给你的。"
     ]
@@ -614,7 +614,7 @@
     "ukphone": "[kɑː]"
   },
   {
-    "name": "Happy birthday!",
+    "name": "Happy birthday",
     "trans": [
       "生日快乐!"
     ]

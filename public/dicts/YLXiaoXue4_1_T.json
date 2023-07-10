@@ -104,7 +104,7 @@
     "ukphone": "[hæv]"
   },
   {
-    "name": "Let's ... ",
+    "name": "Let's",
     "trans": [
       "让咱们……"
     ]
@@ -190,7 +190,7 @@
     "ukphone": "[greɪp]"
   },
   {
-    "name": "Thanks.",
+    "name": "Thanks",
     "trans": [
       "谢谢"
     ]
@@ -558,7 +558,7 @@
     "ukphone": "[ˈbɑːθruːm]"
   },
   {
-    "name": "How are you?",
+    "name": "How are you",
     "trans": [
       "你好吗?"
     ]
@@ -572,13 +572,13 @@
     "ukphone": "['hʌŋgri]"
   },
   {
-    "name": "What would you like?",
+    "name": "What would you like",
     "trans": [
       "你想要什么?"
     ]
   },
   {
-    "name": "I'd like...",
+    "name": "I'd like",
     "trans": [
       "我想要……"
     ]
@@ -692,7 +692,7 @@
     "ukphone": "[fɪʃ]"
   },
   {
-    "name": "Can I help you?",
+    "name": "Can I help you",
     "trans": [
       "我能帮助你吗?"
     ]
@@ -756,7 +756,7 @@
     ]
   },
   {
-    "name": "Well done.",
+    "name": "Well done",
     "trans": [
       "好样的。干得好"
     ]

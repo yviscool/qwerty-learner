@@ -16,7 +16,7 @@
     "ukphone": "['sʌbdʒɪkt]"
   },
   {
-    "name": "Welcome back to ...",
+    "name": "Welcome back to",
     "trans": [
       "欢迎回到……"
     ]
@@ -144,7 +144,7 @@
     "ukphone": "[gəʊ]"
   },
   {
-    "name": "What day is it today?",
+    "name": "What day is it today",
     "trans": [
       "今天星期几？"
     ]
@@ -174,7 +174,7 @@
     "ukphone": "[tə'deɪ]"
   },
   {
-    "name": "What a pity!",
+    "name": "What a pity",
     "trans": [
       "真遗憾"
     ]
@@ -188,7 +188,7 @@
     "ukphone": "['sætədi]"
   },
   {
-    "name": "All right.",
+    "name": "All right",
     "trans": [
       "好的。"
     ]
@@ -364,7 +364,7 @@
     "ukphone": "[drɔː]"
   },
   {
-    "name": "Good ideal!",
+    "name": "Good ideal",
     "trans": [
       "好主意！"
     ]
@@ -698,13 +698,13 @@
     "ukphone": "[muːv]"
   },
   {
-    "name": "I thingk so.",
+    "name": "I think so",
     "trans": [
       "我想是。"
     ]
   },
   {
-    "name": "What's the matter?",
+    "name": "What's the matter",
     "trans": [
       "怎么了？"
     ]
@@ -758,7 +758,7 @@
     "ukphone": "['taɪəd]"
   },
   {
-    "name": "Good night.",
+    "name": "Good night",
     "trans": [
       "晚安。"
     ]
@@ -840,19 +840,19 @@
     ]
   },
   {
-    "name": "I'm fine,thank you.",
+    "name": "I'm fine thank you",
     "trans": [
       "我很好，谢谢。"
     ]
   },
   {
-    "name": "See you tomorrow.",
+    "name": "See you tomorrow",
     "trans": [
       "明天见。"
     ]
   },
   {
-    "name": "See you.",
+    "name": "See you",
     "trans": [
       "再见。"
     ]
@@ -874,7 +874,7 @@
     "ukphone": "['hedeɪk]"
   },
   {
-    "name": "Not so good.",
+    "name": "Not so good",
     "trans": [
       "不太好。"
     ]
